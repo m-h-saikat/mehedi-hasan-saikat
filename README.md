@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [React,Javascript,Laravel](#)
 
-- 👨‍💻 All of my projects are available at [https://github.com/mehedi-hasan-saikat](https://github.com/mehedi-hasan-saikat)
+- 👨‍💻 All of my projects are available at [https://mh-saikat.web.app/)
 
 - 📝 I regularly write articles on [[Coming Soon....](Coming Soon....)]([Coming Soon....](Coming Soon....))
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **saikat.itbd@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xH5v2Di1NVSW2gl-O4i6u-suA789FAtm/view?usp=sharing](https://drive.google.com/file/d/1xH5v2Di1NVSW2gl-O4i6u-suA789FAtm/view?usp=sharing)
+- 📄 Know about my experiences [Resume of Mehedi Hasan Saikat](https://drive.google.com/drive/u/0/folders/1XkGf0kYkFP6MblSyPptKmEJW2l9C7rCB)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
