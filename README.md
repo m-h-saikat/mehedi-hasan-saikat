@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **saikat.itbd@gmail.com**
 
-- 📄 Know about my experiences [Resume of Mehedi Hasan Saikat](https://drive.google.com/drive/u/0/folders/1XkGf0kYkFP6MblSyPptKmEJW2l9C7rCB)
+- 📄 Know about my experiences [Resume of Mehedi Hasan Saikat](https://drive.google.com/file/d/1vDNQtIGrzun7BZbYdWD3UGwJE4Pcf0O4/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
