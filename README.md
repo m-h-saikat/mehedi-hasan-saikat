@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm MEHEDI HASAN SAIKAT</h1>
-<h3 align="center">A passionate Full-stack developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi-hasan-saikat&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi-hasan-saikat" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedi-hasan-saikat" alt="mehedi-hasan-saikat" /></a> </p>
 
-- 🔭 I’m currently working on [PHP with Laravel Framework](#)
 
-- 🌱 I’m currently learning **React JS,Express.JS,JavaScript (ES6), jQuery,PHP,Laravel**
+- 🌱 I’m currently learning **Typescript**
 
-- 👯 I’m looking to collaborate on [E-Commerce Site](#)
 
-- 🤝 I’m looking for help with [React,Javascript,Laravel](#)
+- 🤝 I’m looking for help with [React,Javascript,NodeJS](#)
 
 - 👨‍💻 All of my projects are available at [https://mh-saikat.web.app/)
 
-- 📝 I regularly write articles on [[Coming Soon....](Coming Soon....)]([Coming Soon....](Coming Soon....))
+- 📝 I regularly write articles on [https://medium.com/@mehedi-hasan-saikat)
 
 - 💬 Ask me about **React JS,Express.JS,JavaScript (ES6), jQuery**
 
