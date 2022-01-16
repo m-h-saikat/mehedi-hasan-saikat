@@ -1,6 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm MEHEDI HASAN SAIKAT</h1>
 <h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
-
+ <img align="right" width="500px" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif" alt="" srcset=""> 
+ <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi-hasan-saikat&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi-hasan-saikat" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedi-hasan-saikat" alt="mehedi-hasan-saikat" /></a> </p>
