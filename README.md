@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Redux**
 
 
 - 🤝 I’m looking for help with [React,Javascript,NodeJS](#)
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **saikat.itbd@gmail.com**
 
-- 📄 Know about my experiences [Resume of Mehedi Hasan Saikat](https://drive.google.com/file/d/1vDNQtIGrzun7BZbYdWD3UGwJE4Pcf0O4/view)
+- 📄 Know about my experiences [Resume of Mehedi Hasan Saikat](https://drive.google.com/file/d/1A1dhKyqwSQ9q5OuLJHCS_Gcn3zRltuHW/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
