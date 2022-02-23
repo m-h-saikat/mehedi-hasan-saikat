@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with [React,Javascript,NodeJS](#)
 
-- 👨‍💻 All of my projects are available at [https://mh-saikat.web.app/)
+- 👨‍💻 All of my projects are available at [www.mehedihasansaikat.com)
 
 - 📝 I regularly write articles on [https://medium.com/@mehedi-hasan-saikat)
 
