@@ -1,5 +1,4 @@
- <img align="right" width="500px" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/76bd131b4aa3447eb9f9d0887972c066.gif" alt="" srcset=""> 
-
+ <img align="right" width="100px" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/76bd131b4aa3447eb9f9d0887972c066.gif" alt="" srcset=""> 
 <h1 align="center">Hi 👋, I'm MEHEDI HASAN SAIKAT</h1>
 <h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 
