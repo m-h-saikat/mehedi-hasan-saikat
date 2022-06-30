@@ -6,8 +6,9 @@
 
 
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Redux Toolkit & Styled Components**
 
+- 💻 I’m currently working in **Bluebay IT Limited** as a **Jr. Software Engineer(Frontend-React)** since **1st January,2022**
 
 - 🤝 I’m looking for help with [React,Javascript,NodeJS](#)
 
