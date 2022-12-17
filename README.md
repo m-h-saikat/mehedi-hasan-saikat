@@ -6,17 +6,17 @@
 
 
 
-- 🌱 I’m currently learning **Redux Toolkit & Styled Components**
+- 🌱 I’m currently learning **Redux Toolkit & Tailwind**
 
-- 💻 I’m currently working in **Bluebay IT Limited** as a **Jr. Web Developer(React).** since **1st January,2022**
+- 💻 I’m currently working in **Bluebay IT Limited** as a **Jr. Web Developer(React).** since **1st November,2021**
 
-- 🤝 I’m looking for help with [React,Javascript,NodeJS](#)
+- 🤝 I’m looking for help with [React,Javascript,Redux](#)
 
 - 👨‍💻 All of my projects are available at [www.mehedihasansaikat.com)
 
 - 📝 I regularly write articles on [https://medium.com/@mehedi-hasan-saikat)
 
-- 💬 Ask me about **React JS,Express.JS,JavaScript (ES6), jQuery**
+- 💬 Ask me about **React JS,JavaScript (ES6), Tailwind, Redux**
 
 - 📫 How to reach me **saikat.itbd@gmail.com**
 
