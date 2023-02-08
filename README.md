@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Redux Toolkit & Tailwind**
 
-- 💻 I’m currently working in **Bluebay IT Limited** as a **Jr. Web Developer(React).** since **1st November,2021**
+- 💻 I’m currently working in **Bluebay IT Limited** as a **Jr. Software Developer (Frontend-React.js)** since **1st November,2021**
 
 - 💻 Contribution in  **Bluebay IT Limited** [Gitlab: mehedi-hasan-saikat](https://gitlab.com/mehedi-hasan-saikat)
 
