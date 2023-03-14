@@ -1,16 +1,15 @@
 <!--  <img align="right" width="100px" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/76bd131b4aa3447eb9f9d0887972c066.gif" alt="" srcset="">  -->
 <h1 align="center">Hi 👋, I'm MEHEDI HASAN SAIKAT</h1>
-<h3 align="center">A passionate Frontend Developer (React.JS) from Bangladesh</h3>
+<h3 align="center">A passionate Software Developer (Frontend-React.js) from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi-hasan-saikat&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi-hasan-saikat" /> </p>
 
-
+- 💻 Contribution in  **Bluebay IT Limited** [Gitlab: mehedi-hasan-saikat](https://gitlab.com/mehedi-hasan-saikat)
 
 - 🌱 I’m currently learning **Redux Toolkit & Tailwind**
 
 - 💻 I’m currently working in **Bluebay IT Limited** as a **Jr. Software Developer (Frontend-React.js)** since **1st November,2021**
 
-- 💻 Contribution in  **Bluebay IT Limited** [Gitlab: mehedi-hasan-saikat](https://gitlab.com/mehedi-hasan-saikat)
 
 - 🤝 I’m looking for help with [React,Javascript,Redux](#)
 
